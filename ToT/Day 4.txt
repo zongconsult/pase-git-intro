@@ -1,0 +1,47 @@
+Day 4
+
+CSS - With Phil
+
+Devtools.io
+
+tmetrix.com
+
+
+2 types of render blockng
+
+render blocking
+non render blocking events eg Service workers
+
+dropbox
+hazonk2002@yahoo.co.uk
+Muzik2005.
+
+Used minified (CDN -> Content Delivery networkwork) packages
+
+smashingmagazine.com
+
+colorhexa.com
+
+Material Design
+
+UI
+
+1. White Spacing
+2. Colour & contrast
+3. Scale
+4. Consistency
+5. Visual Hierarchy
+
+UX
+
+Cofred.com
+
+6060114 - UserID
+667196 - OPT
+zongbazonghenry@gmail.com
+@Muzik2005.
+
+
+CSS -> JavaScript -> 
+
+

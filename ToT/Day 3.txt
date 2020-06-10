@@ -1,0 +1,41 @@
+VScode - Text Editor
+
+Extentions
+
+Prettier - Code Formatter
+HTML5 - HTML Snippets
+Live Servers
+
+Git Bash Terminal
+
+Live Share
+
+Simple Sticky Notes
+
+Babel
+
+Docker
+
+mongoDB
+
+GitHub - zongconsult (zongbazonghenry@gmail.com -> Kwabena0242943901)
+
+dukto - Filesharing
+
+git add .
+
+git commit -m "message"
+
+git push -u origin master
+
+
+
+The Pre-technical Training started today, Daniel was our Intructor, he also introduced us to Herman (from Kumasi Hive) who will be teaching us Backend development
+and Philemon (also from Kumasi Hive)  who will handling the react and react native part of the training.
+
+PRE-TRAINING EVALUATION FORM - This was a googledoc form to collect basic knowledge about my technical skills 
+from Basic -> Intermediate -> Advanced. Based on some technical skills.
+
+HTML DOM -> Teach it ot Class
+
+                      
