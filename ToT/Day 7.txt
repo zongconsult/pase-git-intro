@@ -10,7 +10,23 @@ Ctrl + 1 -- Unzoom
 
 Refer to shotcuts on Adobe XD page
 
-
-Another tool for protoyping tool is Invision
+Another tool for protoyping is Invision
 
 Porting Xamarin to Visual Basic
+
+Pick colours using ColorWheel
+
+Plugins: Undraw Free Stock Search for XD
+
+TO draw focus to an item, select the item and press ctrl + 3
+
+uxdesign.cc
+
+
+
+1200 px
+
+920px
+
+300px
+

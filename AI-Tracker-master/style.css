@@ -1,0 +1,29 @@
+
+
+#sec{
+    margin-top: 125px;
+}
+
+#sec .card{
+    height: 150px;
+    background-color: #fff;
+    padding: 15px;
+   box-shadow: 5px 3px 8px #ff00003b;
+
+}
+
+#sec .card a{
+    color: #000;
+}
+
+.bi-caret-up-fill{
+    color: red;
+}
+
+.bi-caret-down-fill{
+    color: #0BA800;
+}
+
+#codiv_count .card{
+    box-shadow: 3px 4px 6px #00000031;
+}
