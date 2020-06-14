@@ -1,0 +1,72 @@
+JAVASCRIPT
+==========
+
+https://northernilab.org
+
+https://www.bootstrapcdn.com/
+
+service Tag: BCLRCS1
+
+
+Expression is at the left side
+
+and the value is at the right side
+
+eg. var name = 2 + 2
+
+Variables
+
+What is Javascript
+
+Data types
+
+Semi colon is used to end line
+
+Primitive Javascript Data Types
+
+Ctrl + K clears the console
+
+1. Strings
+2. Numbers
+3. Boolean
+4. Null
+5. undefined
+
+PEMDAS
+BODMAS
+BEDMAS
+
+use the console to do all that the testing
+Using reactjs you will using the props more
+
+function has parameter or arguments
+
+console.log()
+
+prompt()
+
+alet()
+
+var
+
+let : can be reassigned
+
+const  : These cannot be reassigned
+
+Var can be called anywhere within the scope of the code
+
+let is has a smaller scope and its usually called within a block of code
+
+Note: methods are associated with classes
+
+Boolean Logic:  === exact match and == looks for matches and can also do conversions if possible
+
+Control statements: they are used to control the flow of your program
+
+
+for ( count : count< 10 : count++  ) {
+
+}
+
+
+Assignment : Print even numbers from 0 to 80
