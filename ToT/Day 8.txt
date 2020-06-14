@@ -70,3 +70,29 @@ for ( count : count< 10 : count++  ) {
 
 
 Assignment : Print even numbers from 0 to 80
+
+&& for And Operator
+
+|| pipe for Or operator
+
+% for Division with remainder 0
+
+Shift + Alt arrow key down or up duplicates a code
+
+Assignment
+==========
+
+Torrentgalaxy.com
+
+Assignment: Create a webApp: Shopping list
+
+Receive inputs from the user
+
+Option 1: Key: 1: Add an item
+Option 2: Key: 2: Print list of items
+Option 3: Key: 3: Quit the command
+
+Prompts
+alerts
+loops (while loop)
+
