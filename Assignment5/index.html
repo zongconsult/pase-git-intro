@@ -6,89 +6,102 @@
     <title>Document</title>
 
     <link rel="stylesheet" href="bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div class="container">
-      <div class="row mt-4">
+      <div class="row mt-5">
         <div class="col-md-3">
           <div
-            class="card"
+            class="card anime zoom-on-hover"
             style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
           >
             <div class="card-body">
               <h5 class="card-title">Games</h5>
-              <h6 class="card-subtitle mb-2 text-muted">PS5</h6>
-              <a href="#" class="btn btn-success card-link">Choose</a>
+              <h6 class="card-subtitle mb-2 text-muted" id="itemSelected">
+                PS5
+              </h6>
+              <a
+                href="#"
+                class="btn btn-success card-link"
+                onclick="console.log(selectItem(), addSelected());"
+                >Choose</a
+              >
             </div>
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 ml-5">
           <div
-            class="card"
+            class="card anime zoom-on-hover"
             style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
           >
             <div class="card-body">
               <h5 class="card-title">Games</h5>
-              <h6 class="card-subtitle mb-2 text-muted">XBOX 360</h6>
-              <a href="#" class="btn btn-success card-link">Choose</a>
+              <h6 class="card-subtitle mb-2 text-muted" id="item2">
+                XBOX 360
+              </h6>
+              <a
+                href="#"
+                class="btn btn-success card-link"
+                onclick="selectItem1(), addSelected1()"
+                >Choose</a
+              >
             </div>
           </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 ml-5">
           <div
-            class="card"
+            class="card anime zoom-on-hover"
             style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
           >
             <div class="card-body">
               <h5 class="card-title">Electronic</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Laptop</h6>
-              <a href="#" class="btn btn-success card-link">Choose</a>
+              <h6 class="card-subtitle mb-2 text-muted" id="item3">
+                Laptop
+              </h6>
+              <a
+                href="#"
+                class="btn btn-success card-link"
+                onclick="selectItem2(), addSelected2()"
+                >Choose</a
+              >
             </div>
           </div>
         </div>
       </div>
       <!-- end of first row -->
-      <div class="row">
-        <div class="col-md-3">
-          <div
-            class="card"
-            style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
-          >
-            <div class="card-body">
-              <h5 class="card-title">Sound System</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Bluetooth Speaker</h6>
-              <a href="#" class="btn btn-success card-link">Choose</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div
-            class="card"
-            style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
-          >
-            <div class="card-body">
-              <h5 class="card-title">Music</h5>
-              <h6 class="card-subtitle mb-2 text-muted">JukeBox</h6>
-              <a href="#" class="btn btn-success card-link">Choose</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div
-            class="card"
-            style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
-          >
-            <div class="card-body">
-              <h5 class="card-title">Electronic</h5>
-              <h6 class="card-subtitle mb-2 text-muted">XPS</h6>
-              <a href="#" class="btn btn-success card-link">Choose</a>
-            </div>
-          </div>
-        </div>
+
+      <!-- Collect Inputs from user and Add -->
+      <div class="mt-3">
+        <label for="inputItem">Please Specify your Items </label>
+        <input type="text" id="inputItem" class="form-control" />
+        <button
+          id="UserInput"
+          class="btn btn-success btn-lg mt-2"
+          onclick="addUserInput()"
+        >
+          Okay!
+        </button>
       </div>
-      <!-- end of second row -->
+      <div class="mt-5">
+        <ul
+          style="
+            list-style-type: decimal;
+            align-content: center;
+            margin: 0 200px;
+          "
+          id="userSelected"
+        >
+          <h3>Added Listed</h3>
+          <!-- <li>PS4</li>
+          <li>Laptop</li>
+          <li>Bluetooth Speaker</li> -->
+        </ul>
+      </div>
     </div>
     <!-- end of contianer -->
+
+    <script src="./scrpt.js"></script>
   </body>
 </html>

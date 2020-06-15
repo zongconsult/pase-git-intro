@@ -1,0 +1,14 @@
+.anime {
+  transition: transform 0.5s ease-in-out;
+}
+
+.zoom-on-hover:hover {
+  transform: scale(1.08);
+}
+
+.userSelected {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin: 0px 200px; */
+}

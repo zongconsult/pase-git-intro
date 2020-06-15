@@ -1,0 +1,70 @@
+Day 10
+
+Python
+
+python -v
+
+
+Benefit of Python
+
+Easy to learn
+Open Source
+Larger community 
+Crossplatform
+
+Vs Extentions
+Wakatime
+
+
+
+Data Types
+
+Strings
+Boolean
+Numbers
+
+Intallation fof Lask
+====================
+
+https://flask.palletsprojects.com/en/1.1.x/installation/#install-install-virtualenv
+
+No Windows
+===========
+
+py -m venv env
+
+.\env\Scripts\activate
+
+
+
+An object is an instance of a class
+
+for example this object was built with this class
+
+a method is a fuction with a class
+
+@app.route is decorator
+
+run .py files with e.g: python app.py
+
+
+1/06/20
+
+Today is the second time we have been on the GTL campus for lecture to power issues
+
+Do not commint instance folder in production or to github
+
+always install flask eack time you are starting a new project
+
+all request method of route is GET but you can change it to POST
+
+pip install requests
+
+
+
+
+Read about flask blueprints
+
+
+
+
