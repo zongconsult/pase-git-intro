@@ -1,0 +1,29 @@
+Hoisting in Javscript
+
+
+
+javascript - camelCase
+
+e.g fontSize
+
+JQuery = use-element
+
+e.g font-size
+
+
+
+
+
+Give users an input to key in their items
+
+when user puts an item 
+
+(and a button add)
+
+alert user if item is not part of list
+
+add item to a list of items
+
+
+
+

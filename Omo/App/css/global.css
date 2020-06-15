@@ -1,0 +1,55 @@
+:root {
+  -color-secondary: #ffffff;
+}
+
+Init-color {
+  color: #ffffff;
+}
+
+/* 
+Init2color {
+} */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background-color: crimson;
+  color: #ffffff;
+  width: 40rem;
+  height: 40rem;
+}
+
+.inner-box {
+  background-color: ;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  transition: 0.5s ease-in-out;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: "Roboto";
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1rem;
+  font-weight: normal;
+}

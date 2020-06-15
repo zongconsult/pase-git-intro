@@ -45,7 +45,7 @@ console.log()
 
 prompt()
 
-alet()
+alert()
 
 var
 
@@ -96,3 +96,7 @@ Prompts
 alerts
 loops (while loop)
 
+
+1rem = 10px
+
+Z-index:99999;
