@@ -6,9 +6,11 @@
   transform: scale(1.08);
 }
 
-.userSelected {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* margin: 0px 200px; */
+ul li {
+  font-size: 3rem;
+}
+
+.container {
+  background-color: crimson;
+  padding-top: 0.6rem;
 }

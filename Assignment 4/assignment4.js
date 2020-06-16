@@ -1,6 +1,7 @@
 var shoppingList = ["Laptop", "Charger", "Headset"];
 console.log(shoppingList);
 var yourList = [];
+
 function inputItem() {
   var yourInput = prompt("Enter your item");
   if (yourInput) {
@@ -9,6 +10,7 @@ function inputItem() {
   }
 }
 inputItem();
+
 while ((UseInput = confirm("Do you want to continue"))) {
   inputItem();
 }

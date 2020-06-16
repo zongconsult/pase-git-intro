@@ -11,13 +11,13 @@
   <body>
     <div class="container">
       <div class="row mt-5">
-        <div class="col-md-3">
+        <div class="col-md-3" id="ItemCards">
           <div
             class="card anime zoom-on-hover"
             style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
           >
             <div class="card-body">
-              <h5 class="card-title">Games</h5>
+              <h5 class="card-title">Playstation Games</h5>
               <h6 class="card-subtitle mb-2 text-muted" id="itemSelected">
                 PS5
               </h6>
@@ -36,7 +36,7 @@
             style="width: 18rem; box-shadow: 3px 2px 3px #e451513b;"
           >
             <div class="card-body">
-              <h5 class="card-title">Games</h5>
+              <h5 class="card-title">Microsoft Games</h5>
               <h6 class="card-subtitle mb-2 text-muted" id="item2">
                 XBOX 360
               </h6>
@@ -74,7 +74,9 @@
 
       <!-- Collect Inputs from user and Add -->
       <div class="mt-3">
-        <label for="inputItem">Please Specify your Items </label>
+        <label for="inputItem" style="font-size: 2rem;"
+          >Please Specify your Items
+        </label>
         <input type="text" id="inputItem" class="form-control" />
         <button
           id="UserInput"
@@ -84,16 +86,12 @@
           Okay!
         </button>
       </div>
-      <div class="mt-5">
+      <div class="mt-5 card">
         <ul
-          style="
-            list-style-type: decimal;
-            align-content: center;
-            margin: 0 200px;
-          "
+          style="list-style-type: decimal; margin: 0 100px;"
           id="userSelected"
         >
-          <h3>Added Listed</h3>
+          <h1>Added Listed</h1>
           <!-- <li>PS4</li>
           <li>Laptop</li>
           <li>Bluetooth Speaker</li> -->
@@ -102,6 +100,6 @@
     </div>
     <!-- end of contianer -->
 
-    <script src="./scrpt.js"></script>
+    <script src="./script.js"></script>
   </body>
 </html>

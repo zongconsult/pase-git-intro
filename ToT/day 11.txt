@@ -35,6 +35,8 @@ py -m venv env
 
 .\env\Scripts\activate
 
+to activate your environment
+
 
 
 An object is an instance of a class
@@ -67,4 +69,12 @@ Read about flask blueprints
 
 
 
+
+default content = bytes
+
+decode to string and the convert to CSV
+
+csv_data = StringIO (data)
+
+using pythons StringIO
 

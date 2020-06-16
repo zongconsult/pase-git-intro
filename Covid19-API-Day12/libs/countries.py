@@ -1,0 +1,1 @@
+countries = ["Ghana", "Nigeria", "Togo"]

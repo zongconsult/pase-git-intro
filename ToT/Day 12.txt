@@ -1,0 +1,48 @@
+Day 12
+
+Path variable is declared
+
+using "/<date>" appended to the url 
+
+eg. @app.route ("/app/app/<date", methods = "GET")
+
+https://github.com/GTime
+
+https://github.com/dkkyeremateng
+
+To ignore all other folder from being added to the repository
+
+open the project folder in VScode
+
+run echo 2> .gitignore
+
+open the .gitignore file and add the folder e.g env/
+
+forward slash to tell its a folder
+
+how to export the requirement of a project in to a text file
+
+pip freeze > requirements.txt
+
+To install all the required packages of a project
+
+pip install -r requirements.txt
+
+
+
+Queries params
+===============
+
+
+
+Postman
+
+
+
+CSS Grid-system
+
+
+
+
+
+
