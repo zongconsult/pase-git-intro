@@ -1,0 +1,9 @@
+https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-python-decorators-part-iii-decorators-with-arguments
+
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
+
+https://programminghistorian.org/en/lessons/introduction-and-installation
+
+https://www.youtube.com/watch?v=Q2eafQYgglM
+
+https://www.youtube.com/user/pdxmiguel

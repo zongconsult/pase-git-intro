@@ -1,0 +1,106 @@
+Herokun
+
+Postman
+
+Deepin
+
+https://dnsdumpster.com/
+
+https://securitytrails.com/blog/dns-enumeration
+
+signup.heroku.com
+
+(\t\)(NBr=.Y87u
+
+coinex.com
+
+(\t\)(NBr=.Y87u
+
+Radmin
+
+https://github.com/zongconsult/pase-git-intro
+https://github.com/dkkyeremateng/pase-tot-python-covid-tracker
+
+
+https://bailproject.org/
+
+git remote -v
+
+pip install gunicorn
+
+pip freeze > requirements.txt
+
+do heroku create within your project folder
+
+Deploy heroku by telling the type of app using a Procfile
+
+Inside the Profile paste web: gunicorn app:app
+
+To Change the remote URL
+heroku git:remote -a https://git.heroku.com/paseapp.git
+
+pip install -r requirements.txt
+
+pip install virtualenv
+
+virtualenv venv
+
+.\venv\Scripts\activate
+
+heroku create pase
+
+git remote -v
+
+git add .
+
+git commit -m "comment"
+
+git push -u
+
+git push heroku master
+
+heroku ps:scale web=1
+
+heroku open
+
+https://devcenter.heroku.com/articles/git
+
+https://devcenter.heroku.com/articles/getting-started-with-python
+
+https://devcenter.heroku.com/articles/getting-started-with-python#deploy-the-app
+
+https://www.eset.com/int/support/sysrescue/
+
+install yarn
+
+firebase
+
+aws
+
+amplify
+
+mongo
+
+
+Functions & Methos & Class
+==========================
+
+When you are creating a function you pass parameters
+
+and when you calling functions you pass arguments
+
+classes have to instantiated
+
+functions can contain functions
+
+classes can can have functions
+
+AN object is an instance of a class
+
+functions of a class is called method
+
+objects are the attributes or properties of a method
+
+Typescript is advaced Javascript because it is type based
+
+

@@ -1,0 +1,33 @@
+Backend with Javascript and Nodejs
+
+HTTTP response status code
+
+npm install -s express
+
+Express Js
+
+Monogdb
+
+create a new folder
+
+create app.js
+on the terminal use echo 2> app.js
+
+npm init
+
+npm install -s express mongoose
+
+npm install -g nodemon
+
+mongodb Atlas
+
+Hubtel
+
+cloud deployment with GCP
+
+python blueprints
+
+middleware
+
+firebase
+

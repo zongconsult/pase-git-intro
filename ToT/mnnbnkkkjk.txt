@@ -1,0 +1,15 @@
+Boamah Emmanuel <boamahep@gmail.com>,
+suadikinfo@gmail.com,
+ransberrypy@gmail.com,
+naravictor4@gmail.com,
+zongbazonghenry@gmail.com,
+bernard@icodegh.com,
+abagnasalifusasco@gmail.com
+
+mongodb+srv://henryzong:<ta@3FJi45@TaCbr>@cluster0-oni4e.mongodb.net/test
+
+cloud deployment with GCP
+ta@3FJi45@TaCbr
+
+
+mongodb+srv://<username>:<password>@cluster0-oni4e.mongodb.net/test
